@@ -46,7 +46,7 @@
     height: 600px;
     overflow: hidden;
     position: relative;
-    background-image: url(/Assets/pexels-abbas-mohammed-3680912.jpg);
+    background-image: url(Assets/pexels-abbas-mohammed-3680912.jpg);
     background-position:center ;
     background-repeat: no-repeat;
     background-size: cover;
@@ -78,7 +78,7 @@
 @keyframes change{
     20%
     {
-        background-image: url(/Assets/confrence1.jpg);
+        background-image: url(Assets/confrence1.jpg);
     }
     
 }
@@ -213,7 +213,7 @@
 .menuimg{
     background:red;
     min-height: 500px;
-    background: url(/Assets/flavours\ menu.jpg);
+    background: url(Assets/flavours menu.jpg);
     margin-left: 20px;
     margin-right: 20px;
     animation: change1  infinite 30s step-start ;
@@ -223,7 +223,7 @@
 }
 @keyframes change1{
     20%{
-        background: url(/Assets/menu-steakhouse.png);
+        background: url(Assets/menu-steakhouse.png);
     }   
    
 }
