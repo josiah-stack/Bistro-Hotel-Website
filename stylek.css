@@ -213,7 +213,7 @@
 .menuimg{
     background:red;
     min-height: 500px;
-    background: url(Assets/flavours menu.jpg);
+    background: url(Assets/flavoursmenu.jpg);
     margin-left: 20px;
     margin-right: 20px;
     animation: change1  infinite 30s step-start ;
